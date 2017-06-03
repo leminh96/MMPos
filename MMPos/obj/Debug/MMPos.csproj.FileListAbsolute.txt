@@ -1,0 +1,147 @@
+C:\Users\quocm\Desktop\MMPos\MMPos\bin\Debug\MMPos.exe.config
+C:\Users\quocm\Desktop\MMPos\MMPos\bin\Debug\MMPos.exe
+C:\Users\quocm\Desktop\MMPos\MMPos\bin\Debug\MMPos.pdb
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.csprojResolveAssemblyReference.cache
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.EditInfo.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.EditPrice.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.EditStaffInfo.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Manager.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.MembersDetail.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.RemoveStaffInfo.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.StaffInfo.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Cashier.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Change.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Drink.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Login.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Member.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Chocolate.CHO.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Chocolate.Chocolate.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Chocolate.CHOF.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.BL.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.CAP.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.CAR.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.LA.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.RM.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.Coffee.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.MMPos.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.ES.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.VAL.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Juice.Juice.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Smoothies.Smoothies.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.GL.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.JAC.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.LM.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.LOC.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.MT.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.OM.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.OTH.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.PMT.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.PT.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.Tea.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Menu.Topping.Topping.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.Properties.Resources.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.csproj.GenerateResource.Cache
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.exe
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.pdb
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.AddStaffInfo.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.AddMemberInfo.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.EditMemberInfo.resources
+C:\Users\quocm\Desktop\MMPos\MMPos\obj\Debug\MMPos.RemoveMemberInfo.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\bin\Debug\MMPos.exe.config
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.exe
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.pdb
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\bin\Debug\MMPos.exe
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\bin\Debug\MMPos.pdb
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.csprojResolveAssemblyReference.cache
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.AddMemberInfo.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.AddStaffInfo.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.EditInfo.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.EditMemberInfo.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.EditPrice.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.EditStaffInfo.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Manager.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.MembersDetail.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.RemoveMemberInfo.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.RemoveStaffInfo.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.StaffInfo.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Cashier.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Change.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Drink.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Login.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Member.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Chocolate.CHO.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Chocolate.Chocolate.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Chocolate.CHOF.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.BL.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.CAP.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.CAR.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.LA.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.RM.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.Coffee.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.MMPos.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.ES.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.VAL.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Juice.Juice.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Smoothies.Smoothies.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.GL.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.JAC.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.LM.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.LOC.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.MT.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.OM.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.OTH.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.PMT.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.PT.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.Tea.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Menu.Topping.Topping.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.Properties.Resources.resources
+C:\Users\Luong Nhat Minh\Desktop\Working\MMPos1\MMPos\MMPos\obj\Debug\MMPos.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\MMPos\MMPos\bin\Debug\MMPos.exe.config
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.exe
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.pdb
+D:\Projects\C# Projects\MMPos\MMPos\bin\Debug\MMPos.exe
+D:\Projects\C# Projects\MMPos\MMPos\bin\Debug\MMPos.pdb
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.AddMemberInfo.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.AddStaffInfo.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.EditInfo.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.EditMemberInfo.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.EditPrice.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.EditStaffInfo.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Manager.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.MembersDetail.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.RemoveMemberInfo.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.RemoveStaffInfo.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.StaffInfo.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Cashier.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Change.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Drink.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Login.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Member.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Chocolate.CHO.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Chocolate.Chocolate.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Chocolate.CHOF.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.BL.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.CAP.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.CAR.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.LA.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.RM.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.Coffee.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.MMPos.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.ES.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Coffee.VAL.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Juice.Juice.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Smoothies.Smoothies.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.GL.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.JAC.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.LM.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.LOC.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.MT.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.OM.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.OTH.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.PMT.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.PT.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Tea.Tea.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Menu.Topping.Topping.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.Properties.Resources.resources
+D:\Projects\C# Projects\MMPos\MMPos\obj\Debug\MMPos.csproj.GenerateResource.Cache

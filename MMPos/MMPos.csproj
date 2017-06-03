@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{85464EFE-CF38-4650-8B98-678457CB87BA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MMPos</RootNamespace>
+    <AssemblyName>MMPos</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\AddMemberInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddMemberInfo.designer.cs">
+      <DependentUpon>AddMemberInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddStaffInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddStaffInfo.designer.cs">
+      <DependentUpon>AddStaffInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\EditInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\EditInfo.designer.cs">
+      <DependentUpon>EditInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\EditMemberInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\EditMemberInfo.Designer.cs">
+      <DependentUpon>EditMemberInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\EditPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\EditPrice.designer.cs">
+      <DependentUpon>EditPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\EditStaffInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\EditStaffInfo.designer.cs">
+      <DependentUpon>EditStaffInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Manager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Manager.designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\MembersInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\MembersInfo.designer.cs">
+      <DependentUpon>MembersInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RemoveMemberInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\RemoveMemberInfo.Designer.cs">
+      <DependentUpon>RemoveMemberInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RemoveStaffInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\RemoveStaffInfo.designer.cs">
+      <DependentUpon>RemoveStaffInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Report.designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\StaffInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\StaffInfo.designer.cs">
+      <DependentUpon>StaffInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cashier\Cashier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Cashier\Cashier.Designer.cs">
+      <DependentUpon>Cashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cashier\Change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cashier\Change.designer.cs">
+      <DependentUpon>Change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cashier\Drink.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Cashier\Drink.Designer.cs">
+      <DependentUpon>Drink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrinksMenu.cs" />
+    <Compile Include="Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Member.Designer.cs">
+      <DependentUpon>Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Chocolate\CHO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Chocolate\CHO.Designer.cs">
+      <DependentUpon>CHO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Chocolate\Chocolate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Chocolate\Chocolate.Designer.cs">
+      <DependentUpon>Chocolate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Chocolate\CHOF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Chocolate\CHOF.Designer.cs">
+      <DependentUpon>CHOF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Coffee\BL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Coffee\BL.Designer.cs">
+      <DependentUpon>BL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Coffee\CAP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Coffee\CAP.Designer.cs">
+      <DependentUpon>CAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Coffee\CAR.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Coffee\CAR.Designer.cs">
+      <DependentUpon>CAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Coffee\LA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Coffee\LA.Designer.cs">
+      <DependentUpon>LA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Coffee\RM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Coffee\RM.Designer.cs">
+      <DependentUpon>RM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Coffee\Coffee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Coffee\Coffee.Designer.cs">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Coffee\ES.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Coffee\ES.Designer.cs">
+      <DependentUpon>ES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Coffee\VAL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Coffee\VAL.Designer.cs">
+      <DependentUpon>VAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Juice\Juice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Juice\Juice.Designer.cs">
+      <DependentUpon>Juice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Smoothies\Smoothies.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Smoothies\Smoothies.Designer.cs">
+      <DependentUpon>Smoothies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\GL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\GL.designer.cs">
+      <DependentUpon>GL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\JAC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\JAC.designer.cs">
+      <DependentUpon>JAC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\LM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\LM.designer.cs">
+      <DependentUpon>LM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\LOC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\LOC.designer.cs">
+      <DependentUpon>LOC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\MT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\MT.designer.cs">
+      <DependentUpon>MT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\OM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\OM.designer.cs">
+      <DependentUpon>OM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\OTH.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\OTH.designer.cs">
+      <DependentUpon>OTH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\PMT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\PMT.designer.cs">
+      <DependentUpon>PMT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\PT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\PT.designer.cs">
+      <DependentUpon>PT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tea\Tea.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Tea\Tea.designer.cs">
+      <DependentUpon>Tea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Topping\Topping.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu\Topping\Topping.Designer.cs">
+      <DependentUpon>Topping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin\AddMemberInfo.resx">
+      <DependentUpon>AddMemberInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AddStaffInfo.resx">
+      <DependentUpon>AddStaffInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\EditInfo.resx">
+      <DependentUpon>EditInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\EditMemberInfo.resx">
+      <DependentUpon>EditMemberInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\EditPrice.resx">
+      <DependentUpon>EditPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\EditStaffInfo.resx">
+      <DependentUpon>EditStaffInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\MembersInfo.resx">
+      <DependentUpon>MembersInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\RemoveMemberInfo.resx">
+      <DependentUpon>RemoveMemberInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\RemoveStaffInfo.resx">
+      <DependentUpon>RemoveStaffInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\StaffInfo.resx">
+      <DependentUpon>StaffInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cashier\Cashier.resx">
+      <DependentUpon>Cashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cashier\Change.resx">
+      <DependentUpon>Change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cashier\Drink.resx">
+      <DependentUpon>Drink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Member.resx">
+      <DependentUpon>Member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Chocolate\CHO.resx">
+      <DependentUpon>CHO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Chocolate\Chocolate.resx">
+      <DependentUpon>Chocolate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Chocolate\CHOF.resx">
+      <DependentUpon>CHOF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Coffee\BL.resx">
+      <DependentUpon>BL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Coffee\CAP.resx">
+      <DependentUpon>CAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Coffee\CAR.resx">
+      <DependentUpon>CAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Coffee\LA.resx">
+      <DependentUpon>LA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Coffee\RM.resx">
+      <DependentUpon>RM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Coffee\Coffee.resx">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Coffee\ES.resx">
+      <DependentUpon>ES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Coffee\VAL.resx">
+      <DependentUpon>VAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Juice\Juice.resx">
+      <DependentUpon>Juice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Smoothies\Smoothies.resx">
+      <DependentUpon>Smoothies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\GL.resx">
+      <DependentUpon>GL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\JAC.resx">
+      <DependentUpon>JAC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\LM.resx">
+      <DependentUpon>LM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\LOC.resx">
+      <DependentUpon>LOC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\MT.resx">
+      <DependentUpon>MT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\OM.resx">
+      <DependentUpon>OM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\OTH.resx">
+      <DependentUpon>OTH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\PMT.resx">
+      <DependentUpon>PMT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\PT.resx">
+      <DependentUpon>PT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Tea\Tea.resx">
+      <DependentUpon>Tea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Topping\Topping.resx">
+      <DependentUpon>Topping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
